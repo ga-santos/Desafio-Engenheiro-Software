@@ -6,6 +6,18 @@ Desafio de Engenharia de Software com o objetivo de processar pedidos utilizando
 
 Clone o projeto
 
+Entre no diretório do RabbitMQ
+
+```bash
+  cd rabbit-mq
+```
+
+Inicie o Docker
+
+```bash
+  docker-compose up
+```
+----
 Entre no diretório da API REST
 
 ```bash
@@ -29,18 +41,6 @@ Inicie o Microserviço
 
 ```bash
   dotnet run
-```
-----
-Entre no diretório do RabbitMQ
-
-```bash
-  cd rabbit-mq
-```
-
-Inicie o Docker
-
-```bash
-  docker-compose up
 ```
 ----
 Base de dados está no MongoDB Cloud e pode ser acessada através de sua string de conexão.
