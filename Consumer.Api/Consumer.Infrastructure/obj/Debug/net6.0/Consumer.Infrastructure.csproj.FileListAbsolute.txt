@@ -1,0 +1,15 @@
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\bin\Debug\net6.0\Consumer.Infrastructure.deps.json
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\bin\Debug\net6.0\Consumer.Infrastructure.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\bin\Debug\net6.0\Consumer.Infrastructure.pdb
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\bin\Debug\net6.0\Consumer.Domain.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\bin\Debug\net6.0\Consumer.Domain.pdb
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\obj\Debug\net6.0\Consumer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\obj\Debug\net6.0\Consumer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\obj\Debug\net6.0\Consumer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\obj\Debug\net6.0\Consumer.Infrastructure.AssemblyInfo.cs
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\obj\Debug\net6.0\Consumer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\obj\Debug\net6.0\Consumer.Infrastructure.csproj.CopyComplete
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\obj\Debug\net6.0\Consumer.Infrastructure.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\obj\Debug\net6.0\refint\Consumer.Infrastructure.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\obj\Debug\net6.0\Consumer.Infrastructure.pdb
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Infrastructure\obj\Debug\net6.0\ref\Consumer.Infrastructure.dll

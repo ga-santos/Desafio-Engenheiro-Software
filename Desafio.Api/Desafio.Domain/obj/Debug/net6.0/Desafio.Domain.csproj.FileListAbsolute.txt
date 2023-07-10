@@ -1,0 +1,12 @@
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Domain\bin\Debug\net6.0\Desafio.Domain.deps.json
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Domain\bin\Debug\net6.0\Desafio.Domain.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Domain\bin\Debug\net6.0\Desafio.Domain.pdb
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Domain\obj\Debug\net6.0\Desafio.Domain.csproj.AssemblyReference.cache
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Domain\obj\Debug\net6.0\Desafio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Domain\obj\Debug\net6.0\Desafio.Domain.AssemblyInfoInputs.cache
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Domain\obj\Debug\net6.0\Desafio.Domain.AssemblyInfo.cs
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Domain\obj\Debug\net6.0\Desafio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Domain\obj\Debug\net6.0\Desafio.Domain.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Domain\obj\Debug\net6.0\refint\Desafio.Domain.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Domain\obj\Debug\net6.0\Desafio.Domain.pdb
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Domain\obj\Debug\net6.0\ref\Desafio.Domain.dll

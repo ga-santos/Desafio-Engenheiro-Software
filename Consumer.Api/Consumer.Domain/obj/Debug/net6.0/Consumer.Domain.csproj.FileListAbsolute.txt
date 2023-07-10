@@ -1,0 +1,12 @@
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Domain\bin\Debug\net6.0\Consumer.Domain.deps.json
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Domain\bin\Debug\net6.0\Consumer.Domain.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Domain\bin\Debug\net6.0\Consumer.Domain.pdb
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Domain\obj\Debug\net6.0\Consumer.Domain.csproj.AssemblyReference.cache
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Domain\obj\Debug\net6.0\Consumer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Domain\obj\Debug\net6.0\Consumer.Domain.AssemblyInfoInputs.cache
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Domain\obj\Debug\net6.0\Consumer.Domain.AssemblyInfo.cs
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Domain\obj\Debug\net6.0\Consumer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Domain\obj\Debug\net6.0\Consumer.Domain.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Domain\obj\Debug\net6.0\refint\Consumer.Domain.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Domain\obj\Debug\net6.0\Consumer.Domain.pdb
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Consumer.Api\Consumer.Domain\obj\Debug\net6.0\ref\Consumer.Domain.dll

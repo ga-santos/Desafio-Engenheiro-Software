@@ -1,0 +1,15 @@
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\bin\Debug\net6.0\Desafio.Infrastructure.deps.json
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\bin\Debug\net6.0\Desafio.Infrastructure.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\bin\Debug\net6.0\Desafio.Infrastructure.pdb
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\bin\Debug\net6.0\Desafio.Domain.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\bin\Debug\net6.0\Desafio.Domain.pdb
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\obj\Debug\net6.0\Desafio.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\obj\Debug\net6.0\Desafio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\obj\Debug\net6.0\Desafio.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\obj\Debug\net6.0\Desafio.Infrastructure.AssemblyInfo.cs
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\obj\Debug\net6.0\Desafio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\obj\Debug\net6.0\Desafio.Infrastructure.csproj.CopyComplete
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\obj\Debug\net6.0\Desafio.Infrastructure.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\obj\Debug\net6.0\refint\Desafio.Infrastructure.dll
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\obj\Debug\net6.0\Desafio.Infrastructure.pdb
+C:\Users\ga_sa\OneDrive\Área de Trabalho\Desafio-BTG\Desafio.Api\Desafio.Infrastructure\obj\Debug\net6.0\ref\Desafio.Infrastructure.dll
