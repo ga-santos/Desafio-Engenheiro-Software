@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lxlOGWJ0wqZt1hIsrAbF4fWqrymlno0MsaZthLl1uLF1vUiLU68rAEvEZX8QtdInADQ22p7FBl5jDWisiRTBmw==",
+  "dgSpecHash": "fgfLoUMiaR1LS4i7vAOL+xbOmjVF6fQ7cPlGJlYIpkG23WsdJk94cSuh34BQH79NxOZvRK3HIZkAKdudbrzCSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio.Api\\Desafio.Infrastructure\\Desafio.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio-Engenheiro-Software\\apl-api-pedidos\\Desafio.Infrastructure\\Desafio.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ga_sa\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\ga_sa\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7JXu8r7bo6VbDLWiZr8zYu7AEx2dXVqqIAsGK6VMQy6otveDlNGrUSIme6viK2obsAvy2QgWoXGiN90c0EewGg==",
+  "dgSpecHash": "PIDkzRLXFIJ1Db6kIEphbRLDP6af5ENI0gpUYEhVFzX94xKXtHj9MtpGGURsbfM0nKJWE9BIGnzsNuBRzYHM7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio.Api\\Desafio.Tests\\Desafio.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio-Engenheiro-Software\\apl-api-pedidos\\Desafio.Tests\\Desafio.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ga_sa\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\ga_sa\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

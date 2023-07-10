@@ -7849,11 +7849,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio.Api\\Desafio.Tests\\Desafio.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio-Engenheiro-Software\\apl-api-pedidos\\Desafio.Tests\\Desafio.Tests.csproj",
       "projectName": "Desafio.Tests",
-      "projectPath": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio.Api\\Desafio.Tests\\Desafio.Tests.csproj",
+      "projectPath": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio-Engenheiro-Software\\apl-api-pedidos\\Desafio.Tests\\Desafio.Tests.csproj",
       "packagesPath": "C:\\Users\\ga_sa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio.Api\\Desafio.Tests\\obj\\",
+      "outputPath": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio-Engenheiro-Software\\apl-api-pedidos\\Desafio.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ga_sa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7870,11 +7870,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio.Api\\Desafio.Domain\\Desafio.Domain.csproj": {
-              "projectPath": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio.Api\\Desafio.Domain\\Desafio.Domain.csproj"
+            "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio-Engenheiro-Software\\apl-api-pedidos\\Desafio.Domain\\Desafio.Domain.csproj": {
+              "projectPath": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio-Engenheiro-Software\\apl-api-pedidos\\Desafio.Domain\\Desafio.Domain.csproj"
             },
-            "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio.Api\\Desafio.Infrastructure\\Desafio.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio.Api\\Desafio.Infrastructure\\Desafio.Infrastructure.csproj"
+            "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio-Engenheiro-Software\\apl-api-pedidos\\Desafio.Infrastructure\\Desafio.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ga_sa\\OneDrive\\Área de Trabalho\\Desafio-BTG\\Desafio-Engenheiro-Software\\apl-api-pedidos\\Desafio.Infrastructure\\Desafio.Infrastructure.csproj"
             }
           }
         }
